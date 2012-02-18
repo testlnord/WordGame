@@ -1,0 +1,9 @@
+It`s just small game written to learn smth about Python.
+In this game you should take "tail" of current word as begining of a new word and write rest letters of the new word.
+The longer your new word is and the longer "tail" you use, the more points you have.
+Example:
+curren word: "administration"
+you see tail: "...ration" 
+and write down: "al"
+the new word: "rational"
+Num of points you get is length("rational")*length("ration") = 8*6 = 48
